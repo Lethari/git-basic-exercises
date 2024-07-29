@@ -1,0 +1,107 @@
+    1  mkdir git-basic-exercises
+    2  cd
+    3  ls -a
+    4  git init
+    5  ls -a
+    6  git status
+    7  touch README.md
+    8  ls -a
+    9  git status
+   10  git log
+   11  git add README.md
+   12  git status
+   13  git commit -m "initial commit" 
+   14  git log
+   15  q
+   16  nano README.md
+   17  cat README.md
+   18  git status
+   19  git commit -m "second commit"
+   20  git commit -a"second commit"
+   21  nano README.md
+   22  git commit -m "third commit"
+   23  git add "third commit"
+   24  git log
+   25  git add and git commit -a "second commit"
+   26  git add and commit -m "second commit"
+   27  git log
+   28  git add and commit "second commit"
+   29  git add "second commit"
+   30  git log
+   31  cat README.md
+   32  git status
+   33  "second commit"
+   34  "git commit -a"
+   35  git commit -m "second commit"
+   36  git log
+   37  git status
+   38  cat README.md 
+   39  git status
+   40  git commit -m "second commit"
+   41  git add
+   42  git add.
+   43  git commit "second ommit"
+   44  git log
+   45  clear
+   46  cd
+   47  git log
+   48  nano README.md
+   49  git status
+   50  git add README.md
+   51  git commit -m "session commit"
+   52  nano README.md
+   53  git add README.md
+   54  git commit -m "third commit"
+   55  git log
+   56  q
+   57  git checkout
+   58  commit ff300799e574c4735c7f8ce7041784a385e4bbce
+   59  cat README.md
+   60  git checkout main
+   61  cat README.md
+   62  clear
+   63  mkdir milkshake-flavours 
+   64  git branch 
+   65  git branch
+   66  return
+   67  cd
+   68  nano milkshakes.md
+   69  git status
+   70  git add
+   71  git commit -m "added initial flavours"  
+   72  git add milkshake-flavours
+   73  git commit m- milkshake-flavours
+   74  git commit -m "milkshake-flavours"
+   75  git status
+   76  git add "milkshake-flavours"
+   77  git commit -m "added initial flavours" 
+   78  history > history.txt
+   79  git log
+   80  clear
+   81  git branch milkshake-flavours 
+   82  git checkout milkshake-flavours 
+   83  git branch
+   84  nano milkshakes.md
+   85  git add
+   86  git add milkshake-flavours
+   87  git commit -m "added initial flavours" 
+   88  git commit -m "added initial flavours"
+   89  git status
+   90  git status
+   91  git reset nano milkshakes
+   92  git add nano milkshakes.md
+   93  git add milkshakes.md
+   94  git commit -m "added initial flavours" 
+   95  git branch history
+   96  git main
+   97  git master
+   98  git brach -a
+   99  git branch -a
+  100  git history
+  101  git rach history
+  102  git branch history
+  103  cd
+  104  git checkout history
+  105  history > history.txt
+  106  git log
+  107  history > history.txt
